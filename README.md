@@ -8,7 +8,9 @@ The portfolio includes the following sections:
 - **Projects** – A highlight of some of my key academic projects across different languages and tools.
 - **Contact** – Simple contact information and GitHub profile link.
 
+<img width="1875" height="1007" alt="Image" src="https://github.com/user-attachments/assets/7b6d38f6-67a6-43a4-b15b-9cc02fb1e2dd" /> <br>
 
+<img width="1878" height="723" alt="Image" src="https://github.com/user-attachments/assets/a49d3cfd-4dc0-4149-a76f-2884962a0338" />
 
 ## 🌌 Theme
 
